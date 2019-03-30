@@ -1,4 +1,4 @@
-# DatingAppCreate a basic web dating app which should contain following features:-
+# DatingApp: A basic web dating app which contains following features:-
 
 UI:-
 
