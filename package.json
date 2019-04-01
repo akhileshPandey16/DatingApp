@@ -1,0 +1,31 @@
+{
+  "name": "quillhash",
+  "version": "1.0.0",
+  "description": "A basic Dating App",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhileshPandey16/DatingApp.git"
+  },
+  "keywords": [
+    "dating",
+    "app"
+  ],
+  "author": "Akhilesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhileshPandey16/DatingApp/issues"
+  },
+  "homepage": "https://github.com/akhileshPandey16/DatingApp#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
+}
