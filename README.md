@@ -1,6 +1,8 @@
 # DatingApp: A basic web dating app which contains following features:-
 
 UI:-
+<br>
+![DatingApp UI Wirefrane](https://raw.githubusercontent.com/akhileshPandey16/DatingApp/master/public/images/wireframe.png)
 
 Sign up/login with email password 
 One Image uploading for each user 
